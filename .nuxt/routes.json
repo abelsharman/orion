@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/Users/tleksuerbasov/Desktop/work-zilla/project-orion/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_4b895109"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tleksuerbasov/Desktop/work-zilla/project-orion/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7e129348"
+  }
+]
