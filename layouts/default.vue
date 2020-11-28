@@ -1,6 +1,11 @@
 <template>
   <div>
     <Header />
-    <Nuxt />
+    <Main />
+    <About />
+    <Key />
+    <AboutPart />
+    <ServiceBegin />
+    <Services />
   </div>
 </template>

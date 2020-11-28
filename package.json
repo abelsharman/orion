@@ -12,7 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap-vue": "^2.19.0",
+    "vue-backtotop": "^1.6.1",
+    "vue-carousel": "^0.18.0",
+    "vue-toastification": "^1.7.6",
+    "vue-videobg": "^2.0.0",
     "jquery": "^3.5.1",
-    "nuxt": "^2.14.7"
+    "nuxt": "^2.14.7",
+    "v-tooltip": "^2.0.3",
+    "vue": "^2.6.12"
   }
 }
