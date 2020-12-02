@@ -70,6 +70,7 @@ export default {
     @media only screen and (max-width: 440px){
         .about_container{
             width: 100%;  
+            height: auto;
             top: -10px;
             left: 0%;
         }

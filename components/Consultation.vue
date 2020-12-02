@@ -201,12 +201,13 @@ export default{
     @media only screen and (max-width: 440px){
         .cons{
             top: 00px;
+            height: auto;
         }
         .cons_cont{
             width: 100%;
             margin-left: 0%;
             margin-top: 7%;
-            padding-top: 10%;
+            padding-top: 5%;
             padding-left: 13%;
         }
         .cons_cont p{

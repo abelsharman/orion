@@ -83,12 +83,12 @@ export default {
     @media only screen and (max-width: 440px){
         .partners{
             padding-top: 00px;
-            height: 1200px;
+            height: auto;
             background: url("~assets/img/backgroundlast.jpg") no-repeat 100% 100%;
         }
         .partners_inner{
             margin-left: 0%;
-            height: 1200px;
+            height: auto;
             width: 100%;   
 
         }

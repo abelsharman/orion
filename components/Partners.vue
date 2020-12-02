@@ -110,8 +110,8 @@ export default {
     }
     @media only screen and (max-width: 440px){
         .partner{
-            top: 00px;
-            height: 1550px;
+            top: 0px;
+            height: auto;
         }
         .partner_inner h1{
             font-size: 2em;

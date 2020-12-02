@@ -120,7 +120,8 @@ export default {}
             width: 100%;
         }
         .services_main_container{
-            height: 2500px;
+            height: auto;
+            width: 100%;
             top: -50px;
             left: 0%;
         }

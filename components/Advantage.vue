@@ -158,9 +158,10 @@ export default {
     @media only screen and (max-width: 440px){
         .advantage{
             width: 100%;
+
             top: 0px;
             padding-top: 100px;
-            height: 2200px;
+            height: auto;
         }
         .advantage_inner{
             padding-left: 10%;

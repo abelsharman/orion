@@ -171,7 +171,7 @@ export default {
     }
      @media only screen and (max-width: 440px){
        .project{
-        height: 1250px;
+        height: auto;
         color: black;
         background-color: rgb(249,249,249);
         top: 0px;
