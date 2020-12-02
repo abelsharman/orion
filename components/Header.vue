@@ -2,8 +2,8 @@
     <div id="app" ref="app">
     <b-container fluid class="cont">
         <b-row>
-            <b-col class="col-9 col-sm-2  col-md-2"><b-img class="my-4 ml-0" src="~/assets/img/logo.svg" height="60%" alt='logo'></b-img></b-col>
-            <b-col class="col-2 col-sm-1 col-md-1">
+            <b-col class="col-8 col-sm-2  col-md-2"><b-img class="my-4 ml-0" src="~/assets/img/logo.svg" height="60%" alt='logo'></b-img></b-col>
+            <b-col class="col-4 col-sm-1 col-md-1">
                 <div ref="but" id="but"  @click="dropIt()" class="menu-icon my-5 ml-4 pl-3">
                     <span ref="line1" id="line1" class="line line1"></span>
                     <span ref="line2" id="line2" class="line line2"></span>

@@ -116,8 +116,10 @@ export default {
     }
     .slider {
       margin-left: 10%;
+      position: relative;
       width: 80%;
       padding: 80px 24px;
+      z-index: 1;
     }
     .slider_h{
       font-size: 1.3em;

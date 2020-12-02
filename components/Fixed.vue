@@ -148,6 +148,7 @@ export default{
         font-family: 'Gilroy',Arial,sans-serif;
         position:fixed;
         bottom: 4%;
+        z-index: 999 ;
         left: 3%;
         display: none;
     }
@@ -161,6 +162,7 @@ export default{
         position:fixed;
         display: block;
         bottom: 5%;
+        z-index: 999;
         left: 88%;
         background-color: rgb(229,39,41);
         padding: 13px;
