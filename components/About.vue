@@ -1,4 +1,5 @@
 <template>
+        <span id="about">
         <b-container class="about_container">
             <b-container class="p-sm-5 p-md-5 p-lx-5">
                 <b-container class="about_second_container">
@@ -9,21 +10,30 @@
                 </b-container>
             </b-container>
         </b-container>
+        </span>
     
 </template>
 
 
 
+<script src="https://unpkg.com/vue/dist/vue.js"></script> 
+<script src="https://unpkg.com/vue2-smooth-scroll"></script>
+<script>
+
 
 export default {
+    
 
 }
+</script>
+
 
 
 <style>
     .about_container{
+        font-family: 'Gilroy',Arial,sans-serif;
         width: 65%;
-        height: auto;
+        height: 600px;
         background-color: rgb(249,249,249);
         position: relative;
         top: -80px;

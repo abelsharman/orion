@@ -25,6 +25,7 @@ export default {
 
 <style>
     .aboutpart{
+        font-family: 'Gilroy',Arial,sans-serif;
         position: relative;
         top: 60px;
         left: 0%;

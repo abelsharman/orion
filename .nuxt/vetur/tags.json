@@ -11,6 +11,30 @@
   "LazyAboutPart": {
     "description": "Auto imported from components/AboutPart.vue"
   },
+  "Advantage": {
+    "description": "Auto imported from components/Advantage.vue"
+  },
+  "LazyAdvantage": {
+    "description": "Auto imported from components/Advantage.vue"
+  },
+  "Consultation": {
+    "description": "Auto imported from components/Consultation.vue"
+  },
+  "LazyConsultation": {
+    "description": "Auto imported from components/Consultation.vue"
+  },
+  "Contacts": {
+    "description": "Auto imported from components/Contacts.vue"
+  },
+  "LazyContacts": {
+    "description": "Auto imported from components/Contacts.vue"
+  },
+  "Fixed": {
+    "description": "Auto imported from components/Fixed.vue"
+  },
+  "LazyFixed": {
+    "description": "Auto imported from components/Fixed.vue"
+  },
   "Header": {
     "description": "Auto imported from components/Header.vue"
   },
@@ -28,6 +52,24 @@
   },
   "LazyMain": {
     "description": "Auto imported from components/Main.vue"
+  },
+  "Partners": {
+    "description": "Auto imported from components/Partners.vue"
+  },
+  "LazyPartners": {
+    "description": "Auto imported from components/Partners.vue"
+  },
+  "Partners2": {
+    "description": "Auto imported from components/Partners2.vue"
+  },
+  "LazyPartners2": {
+    "description": "Auto imported from components/Partners2.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/Projects.vue"
+  },
+  "LazyProjects": {
+    "description": "Auto imported from components/Projects.vue"
   },
   "ServiceBegin": {
     "description": "Auto imported from components/ServiceBegin.vue"

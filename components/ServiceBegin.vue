@@ -2,7 +2,7 @@
     <div class="service">
         <div class="service_inner">
             <b-img fluid class="point d-inline-block align-baseline" src="~/assets/img/point.png" ></b-img>
-            <p class="about_about font-weight-lighter text-uppercase d-inline-block align-baseline">Услуги </p>
+            <p id="opt" class="about_about font-weight-lighter text-uppercase d-inline-block align-baseline">Услуги </p>
 
 
             <p class="service_heading h1 font-weight-normal mt-sm-0 mt-4 ">Компания предоставляет полный спектр услуг, связанных с инжинирингом</p>
@@ -27,35 +27,35 @@ export default {
 
 <style>
     .service{
+        font-family: 'Gilroy',Arial,sans-serif;
         position: relative;
-        top: 200px;
+        top: 00px;
         width: 100%;
-        height: auto;
-        background: url("~assets/img/back.svg") no-repeat 220% 15% rgb(249,249,249);
+        height: 700px;
+        background: url("~assets/img/back.svg") no-repeat 220% 5% rgb(249,249,249);
     }
     .service_inner{
-        width: 100%;
+        width: 65%;
         position: relative;
-        height: 350px;
-        left: -38%;
-        padding-top: 10%;
-        
+        left: 10%;
+        padding-top: 10%; 
     }
     .service_heading{
         width: 100%;
-    
     }
     .service_text1, .service_text2{
         width: 65%;
     }
     .service_container{
-        margin-left: 80px;
+        padding-bottom: 50px;
+        margin-left: 120px;
     }
     @media only screen and (max-width: 440px){
         .service{
+            height: 800px;
             width: 100%;
-             background: url("~assets/img/back.svg") no-repeat 150px 3% rgb(249,249,249);
-             background-size: 100%;
+            background: url("~assets/img/back.svg") no-repeat 150px 3% rgb(249,249,249);
+            background-size: 100%;
         }
         .service_inner{
             width: 90%;

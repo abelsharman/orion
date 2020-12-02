@@ -10,8 +10,9 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import '../node_modules/bootstrap-vue/dist/bootstrap-vue.css'
 
 import _6f6c098b from '../layouts/default.vue'
+import _2d29e588 from '../layouts/test.vue'
 
-const layouts = { "_default": sanitizeComponent(_6f6c098b) }
+const layouts = { "_default": sanitizeComponent(_6f6c098b),"_test": sanitizeComponent(_2d29e588) }
 
 export default {
   render (h, props) {

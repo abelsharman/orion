@@ -20,8 +20,9 @@ export default {
 
 <style>
     .key{
+        font-family: 'Gilroy',Arial,sans-serif;
         width: 100%;
-        height:180px;
+        height:550px;
         margin: 0;
         padding: 0;
     }
@@ -76,3 +77,4 @@ export default {
         }
     }
 </style>
+
